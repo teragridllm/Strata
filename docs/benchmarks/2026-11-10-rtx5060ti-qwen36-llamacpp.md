@@ -4,6 +4,9 @@
 It records three things: the state of one machine, the numbers its Strata engine had already written to its log,
 and what llama.cpp needs before a fair comparison is possible. Section 5 is an estimate and says so.
 
+**Status, 2026-11-10:** no CUDA toolkit was installed and no llama.cpp measurement was made. This note and the
+plan in section 7 are the deliverable; section 3 is the checklist for whoever picks it up.
+
 ## 1. The machine
 
 - GPU: NVIDIA GeForce RTX 5060 Ti, 16,311 MiB, driver 580.178.04, 180 W. Blackwell, sm_120.
